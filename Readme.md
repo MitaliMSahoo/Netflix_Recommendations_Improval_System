@@ -1,4 +1,3 @@
-Read Me:
 Instructions to run:
 --------------------
 
