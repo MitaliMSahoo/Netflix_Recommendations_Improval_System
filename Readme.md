@@ -1,5 +1,6 @@
 Read Me:
 Instructions to run:
+--------------------
 
 1.	Place the train.txt, test5.txt, test10.txt, test20.txt, train and test input files in same location as the python code.
 
